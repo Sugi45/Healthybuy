@@ -1,0 +1,13 @@
+
+        .footer {
+            background-color: #f8f9fa;
+            padding: 50px ;
+        }
+        .footer h5 {
+            color: #28a745;
+        }
+        .social-icons a {
+            color: #28a745;
+            font-size: 1.5rem;
+            margin-right: 15px;
+        }

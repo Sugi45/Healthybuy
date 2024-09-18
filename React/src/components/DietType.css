@@ -1,0 +1,47 @@
+.diet-type-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #b2fab4; /* Light green background */
+    padding: 30px;
+    border-radius: 40px;
+}
+
+.diet-type-left h1 {
+    font-size: 50px;
+    color: #000;
+    font-weight: bold;
+}
+
+.diet-type-left h1 span {
+    color: #00a700; /* Green color for 'Diet Type!' */
+}
+
+.diet-type-right p {
+    font-size: 16px;
+    color: #000;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.diet-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+}
+
+.diet-buttons button {
+    background-color: #000;
+    color: #fff;
+    border: none;
+    border-radius: 25px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.diet-buttons button:hover {
+    background-color: #333;
+}
